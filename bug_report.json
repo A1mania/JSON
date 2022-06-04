@@ -12,5 +12,5 @@
  "2)Navigate to the Users Menu -> New User",
 "3) Filled out all the user information fields",
 "4) Clicked on the ‘Save’ button",
-"5) Seen an error page"
+"5) Seen an error page"]
 "Expected Result": "On clicking the SAVE button, you should be prompted to a successful message “New User has been created successfully”."
