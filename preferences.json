@@ -1,5 +1,7 @@
-{"Favourite movie": "Harry potter",
-	"Favourite series": "Sherlock",
-	"Favourite food": "Chocolate",
-	"Favourite season": "Spring",
-	"Country-to-visit": "Thailand"}
+{
+	"Favourite_movie": "Harry potter",
+	"Favourite_series": "Sherlock",
+	"Favourite_food": "Chocolate",
+	"Favourite_season": "Spring",
+	"Country_to_visit": "Thailand"
+}
