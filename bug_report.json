@@ -1,10 +1,11 @@
+
 {
 	"Bug_Name": "Application crashes upon clicking the SAVE button while creating a new user."
 "Bug_ID": 1
 "Severity: HIGH"
 "Assigned_to": "Developer"
-"Reported_By: ANNA"
-"Reported On": "02.06.22"
+"Severity": "HIGH"
+"Reported_On": "02.06.22"
 "Environment": "Windows 2010"
 "Description": "Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application."
 "Steps to Reproduce":
